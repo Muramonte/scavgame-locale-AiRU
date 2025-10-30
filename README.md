@@ -4,6 +4,9 @@
 Русификатор в некоторых местах может быть не точным или проскакивать english phrases но игра переведена полностью
 Localization files for the "Scavenge Game" by Orsoniks.
 
+# V5 demo 4 update
+файл DORu, кривой рофло перевод на дореформенный русский
+
 # Authors
 Muramonte | дискорд .muramonte. можете тегать, мб сделаю обновление если игра обновится
 # Maintainers
